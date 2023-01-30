@@ -1,5 +1,5 @@
 Olá, meu nome é Matheus Carvalho, tenho 21 anos e sou formado em Ciência da Computação. 
-No momento,eu busco uma vaga como trainne ou desenvolvedor júnior. 
+No momento,eu busco uma vaga como trainee ou desenvolvedor júnior. 
 
 Profissional eficiente e com boas habilidades de relacionamento interpessoal, 
 que contribuem para a prestação de um serviço de excelência e para o suporte à 
@@ -15,6 +15,6 @@ fazer acontecer,resolução de problemas de forma dinâmica, adaptativo e
 contribuindo com soluções criativas e eficientes. 
 
 Tenho como objetivo ingressar 
-no mercado de trabalho através de um estágio profissional ou contratação 
+no mercado de trabalho sendo trainee ou através de contratação 
 efetiva de nível Júnior em áreas relacionadas ao desenvolvimento e engenharia 
 de software
